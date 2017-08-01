@@ -45,12 +45,16 @@ $ slack sendrichtext "channelx" "This is a test title" "This is message value" "
 ```
 ###### Note: The arguments in angular brackets are required where as the arguments in square brackets are optional.
 
+## License
+---
+[MIT/X11](https://github.com/vermauv/slackclient/blob/0.0.1/LICENSE)
+
 ## Bug Reports
 ---
 ###### I accept pull requests and I am able to reply back within a week
-Report here.
+Report [here](https://github.com/vermauv/slackclient/issues).
 
 ## Contact
 ---
-Udit Verma ([vermaudit28@gmail.com](mailto:vermaudit28@gmail.com)
+Udit Verma ([vermaudit28@gmail.com](mailto:vermaudit28@gmail.com))
 Follow me on [github](https://github.com/vermauv), [twitter](https://twitter.com/vermaudit28)
